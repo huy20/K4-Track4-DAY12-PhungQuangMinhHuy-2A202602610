@@ -1,0 +1,30 @@
+{
+  "student": {
+    "student_id": "2A202602610",
+    "split_seed": 1714,
+    "model_seed": 9971,
+    "v_ego": 12.0
+  },
+  "synthetic_scenarios": 20000,
+  "dagger_rounds": 2,
+  "decision_PercMLP+": true,
+  "seconds": 484,
+  "held_out_cruise_speed": {
+    "v_ego": 20.0,
+    "attributable_area_per_seed": {
+      "IDM": [
+        0.0
+      ],
+      "PercMLP": [
+        0.2866666666666667,
+        0.2088888888888889,
+        0.37703703703703706
+      ],
+      "PercMLP+": [
+        0.016666666666666666,
+        0.005925925925925926,
+        0.007407407407407408
+      ]
+    }
+  }
+}
